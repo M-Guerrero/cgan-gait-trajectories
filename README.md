@@ -120,13 +120,11 @@ $$\mathcal{L}_G = \alpha_{adv}\,\mathcal{L}_{adv} + \alpha_{fm}\,\mathcal{L}_{FM
 
 ## Resultados visuales
 
-<table>
-  <p align="center">
-    <img src="acoplamiento-real-vs-sintetico.png" alt="Matrices de acoplamiento" width="513">
-    <img src="pca.png" alt="PCA" width="289"><br>
-    <em>Izquierda: acoplamiento interarticular, real vs. sintético. Derecha: ciclos reales y sintéticos proyectados en el plano PCA.</em>
-  </p>
-</table>
+<p align="center">
+  <img src="acoplamiento-real-vs-sintetico.png" alt="Matrices de acoplamiento" width="513">
+  <img src="pca.png" alt="PCA" width="289"><br>
+  <em>Izquierda: acoplamiento interarticular, real vs. sintético. Derecha: ciclos reales y sintéticos proyectados en el plano PCA.</em>
+</p>
 
 <p align="center">
   <img src="consistencia-LH.png" alt="Consistencia de las condiciones clínicas" width="850"><br>
