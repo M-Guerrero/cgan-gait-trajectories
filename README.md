@@ -183,11 +183,6 @@ python eval_estadistica.py --real_mat train_db_original.mat --synth_mat samples/
 python eval_clinica.py --mat db_validacion_w_foot.mat --out eval_LH
 ```
 
-## Trabajo futuro
-
-- **Periodicidad:** reforzar el cierre del ciclo, por ejemplo integrando el modelo cinemático en el entrenamiento o usando arquitecturas que encadenen ciclos sucesivos.
-- **Longitud de paso:** mejorar su control en zonas del espacio clínico alejadas de los datos de entrenamiento, por ejemplo con un predictor auxiliar más preciso.
-- **Aplicaciones:** ampliar bases de datos, simular escenarios difíciles de registrar y prototipar rápidamente controladores de rehabilitación.
 
 ## Cómo citar
 
