@@ -65,7 +65,7 @@ Son los grados de libertad que mueve el exoesqueleto de NIMBLE.
 </details>
 
 <p align="center">
-  <img src="docs/img/curvas-promedio-train.png" alt="Curvas promedio reales vs sintéticas (entrenamiento)" width="850"><br>
+  <img src="curvas-promedio-train.png" alt="Curvas promedio reales vs sintéticas (entrenamiento)" width="850"><br>
   <em>Curvas promedio reales (línea continua) frente a sintéticas (discontinua), con bandas de ±1σ. Conjunto de entrenamiento.</em>
 </p>
 
@@ -122,18 +122,18 @@ $$\mathcal{L}_G = \alpha_{adv}\,\mathcal{L}_{adv} + \alpha_{fm}\,\mathcal{L}_{FM
 
 <table>
   <tr>
-    <td align="center" width="60%"><img src="docs/img/acoplamiento-real-vs-sintetico.png" alt="Matrices de acoplamiento"><br><em>Acoplamiento interarticular: real (izq.) vs. sintético (dcha.)</em></td>
-    <td align="center" width="40%"><img src="docs/img/pca.png" alt="PCA"><br><em>Ciclos reales y sintéticos proyectados en el plano PCA</em></td>
+    <td align="center" width="60%"><img src="acoplamiento-real-vs-sintetico.png" alt="Matrices de acoplamiento"><br><em>Acoplamiento interarticular: real (izq.) vs. sintético (dcha.)</em></td>
+    <td align="center" width="40%"><img src="pca.png" alt="PCA"><br><em>Ciclos reales y sintéticos proyectados en el plano PCA</em></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="docs/img/consistencia-LH.png" alt="Consistencia de las condiciones clínicas" width="850"><br>
+  <img src="consistencia-LH.png" alt="Consistencia de las condiciones clínicas" width="850"><br>
   <em>Metas clínicas pedidas (eje X) frente a las reconstruidas con el modelo cinemático (eje Y). La línea discontinua es y = x.</em>
 </p>
 
 <p align="center">
-  <img src="docs/img/trayectorias-pie-Z.png" alt="Trayectorias verticales del pie" width="850"><br>
+  <img src="trayectorias-pie-Z.png" alt="Trayectorias verticales del pie" width="850"><br>
   <em>Trayectorias verticales del tobillo, talón y punta del pie reconstruidas a partir de las secuencias sintéticas.</em>
 </p>
 
